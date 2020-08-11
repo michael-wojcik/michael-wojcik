@@ -1,6 +1,6 @@
-# [Michael Wojcik](https://michaelwojcik.org/)
+# Michael Wojcik
 
-## [Web dev. Drupal pro. Aspiring JavaScript geek](https://michaelwojcik.org/).
+## [Web dev](https://lastcallmedia.com/). [Drupal pro](https://www.drupal.org/u/michael_wojcik/). [Aspiring JavaScript geek](https://michaelwojcik.org/).
 
 Hi! I'm a Senior Developer at [Last Call Media](https://lastcallmedia.com/). Previously, I was a Senior Developer at Hook 42 and a Drupal Developer at Elevated Third and Mediacurrent. I'm also an Acquia Certified Developer—in Drupal 8 as of 2018 and in Drupal 7 as of 2016.
 
