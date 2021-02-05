@@ -1,4 +1,4 @@
-# Michael Wojcik
+# Michael "MJ" Wojcik
 
 ## [Web dev](https://lastcallmedia.com/). [Drupal pro](https://www.drupal.org/u/michael_wojcik/). [Aspiring JavaScript geek](https://michaelwojcik.org/).
 
