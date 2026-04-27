@@ -1,8 +1,8 @@
 # Michael "MJ" Wojcik
 
-Hi! :wave: I'm a Senior Software Engineer at [Phamily](https://phamily.com/) :family_man_woman_girl_boy:
+Hi! :wave: I'm a founding engineer and VP of Engineering at [Reflectica](https://reflectica.ai/) :large_blue_circle:
 
-I'm also acting VP of Engineering at [Reflectica](https://reflectica.ai/) :large_blue_circle: Previously, I worked as a Software Engineer at [Nava PBC](https://www.navapbc.com) :green_heart:, Fullstack Software Engineer at [UnVale](https://unvale.io) :purple_heart:, and Senior Developer at [Last Call Media](https://lastcallmedia.com/) :triangular_flag_on_post: and at Hook 42 :purple_square: Before that, I was a Drupal Developer at Elevated Third :small_blue_diamond: and Mediacurrent :ocean:
+Previously, I worked as a Software Engineer at [Nava PBC](https://www.navapbc.com) :green_heart:, Fullstack Software Engineer at [UnVale](https://unvale.io) :purple_heart:, and Senior Developer at [Last Call Media](https://lastcallmedia.com/) :triangular_flag_on_post: and at Hook 42 :purple_square: Before that, I was a Drupal Developer at Elevated Third :small_blue_diamond: and Mediacurrent :ocean:
 
 I'm an Acquia :droplet: Certified Developer—in Drupal 8 as of 2018 and in Drupal 7 as of 2016.
 
