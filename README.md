@@ -1,4 +1,4 @@
-# Michael "MJ" Wojcik
+# MJ Wojcik
 
 Hi! :wave: I'm a founding engineer and VP of Engineering at [Reflectica](https://reflectica.ai/) :large_blue_circle: Currently building agentic AI systems for healthcare and developer tooling. Sole architect of [PACT](https://github.com/Synaptic-Labs-AI/PACT-Plugin) :robot:, an open-source agentic orchestration harness for Claude Code.
 
